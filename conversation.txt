@@ -1,0 +1,104 @@
+Instruction:
+	You are now an expert in computational chemistry and machine learning for molecular property prediction. 
+    Your task is to provide detailed and accurate information about computable molecular properties. 
+
+Message:
+
+	I want to find the all available computable molecular properties related to the [TASK] ([TASK DESCRIPTION]).
+
+Response:
+
+	Computable molecular properties refer to properties of molecules that can be calculated or predicted using computational chemistry, cheminformatics, or machine learning techniques. These properties can be derived from the molecular structure and are used in various applications like drug discovery, material science, and chemical engineering. Below is a categorized list of computable molecular properties:
+
+	### **1. Physical and Chemical Properties**
+	- **Molecular weight**  
+	- **Exact mass**  
+	- **Number of heavy atoms**  
+	- **Number of hydrogen bond donors and acceptors**  
+	- **Polar surface area (PSA)**  
+	- **LogP (partition coefficient)**  
+	- **LogD (distribution coefficient)**  
+	- **Solubility (logS)**  
+	- **pKa and pKb values**  
+	- **Dipole moment**  
+	- **Electronegativity**  
+	- **Molecular refractivity**  
+	- **Boiling point (predicted)**  
+	- **Melting point (predicted)**  
+	- **Critical temperature and pressure**  
+
+	### **2. Geometric and Structural Properties**
+	- **Bond lengths and angles**  
+	- **Torsional angles**  
+	- **Radius of gyration**  
+	- **Moment of inertia**  
+	- **3D molecular shape descriptors**  
+	- **Steric hindrance**  
+
+	### **3. Electronic Properties**
+	- **HOMO (Highest Occupied Molecular Orbital) energy**  
+	- **LUMO (Lowest Unoccupied Molecular Orbital) energy**  
+	- **HOMO-LUMO gap**  
+	- **Partial atomic charges**  
+	- **Electrophilicity index**  
+	- **Fukui functions**  
+	- **Frontier orbital distribution**  
+	- **Polarizability**  
+
+	### **4. Topological Properties**
+	- **Molecular connectivity indices (e.g., Wiener index, Balaban index)**  
+	- **Topological polar surface area (TPSA)**  
+	- **Kier and Hall indices**  
+	- **Eccentric connectivity index**  
+	- **Shannon entropy**  
+
+	### **5. Thermodynamic Properties**
+	- **Entropy (predicted)**  
+	- **Heat capacity**  
+	- **Gibbs free energy**  
+	- **Enthalpy of formation**  
+	- **Vapor pressure**  
+
+	### **6. Quantum Mechanical Properties**
+	- **Binding energy**  
+	- **Total electronic energy**  
+	- **Zero-point energy (ZPE)**  
+	- **Force constants**  
+	- **Vibrational frequencies**  
+
+	### **7. Descriptors for Biological and Pharmaceutical Applications**
+	- **Lipinski's Rule of Five parameters**  
+	- **Bioavailability score**  
+	- **ADMET properties (Absorption, Distribution, Metabolism, Excretion, and Toxicity)**  
+	- **Drug-likeness**  
+	- **Toxicity predictions (e.g., hERG inhibition)**  
+	- **Reactivity descriptors**  
+
+	### **8. Spectroscopic Properties**
+	- **IR spectra predictions**  
+	- **NMR chemical shifts**  
+	- **UV-Vis spectra**  
+	- **Raman activity**  
+
+	### **9. Graph-Based Properties**
+	- **Betweenness centrality of atoms**  
+	- **Clustering coefficient**  
+	- **Eccentricity of graph nodes**  
+	- **Graph radius and diameter**  
+
+	### **10. Machine Learning-Derived Properties**
+	- **Quantitative Structure-Activity Relationships (QSAR)**  
+	- **Quantitative Structure-Property Relationships (QSPR)**  
+	- **Synthetic accessibility score**  
+	- **De novo drug-like score**  
+
+	If you are looking for tools to compute these properties, some commonly used software includes:
+	- **RDKit** (cheminformatics)
+	- **Gaussian** (quantum chemistry)
+	- **Schrödinger Suite** (molecular modeling)
+	- **Open Babel** (molecular conversion and property prediction)
+	- **Autodock** (docking simulations)
+	- **MOPAC** (semi-empirical quantum chemistry)
+
+	Let me know if you need detailed insights into calculating specific properties or recommendations on tools for your research.
+
